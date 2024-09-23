@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lebuto.github.io/sitemap.html.gz
+Sitemap: https://lebuto.github.io/app/sitemap.html.gz
+Sitemap: https://lebuto.github.io/assets/sitemap.html.gz
+Sitemap: https://lebuto.github.io/css/sitemap.html.gz
+Sitemap: https://lebuto.github.io/data/sitemap.html.gz
+Sitemap: https://lebuto.github.io/includes/sitemap.html.gz
+Sitemap: https://lebuto.github.io/item/sitemap.html.gz
+Sitemap: https://lebuto.github.io/src/sitemap.html.gz
